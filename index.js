@@ -97,7 +97,7 @@ function processSum(/* CODE HERE */) {
  * @instructions
  * Implement a higher-order function called `processProduct`.
  * It takes three arguments:
- * @param num1 a number.
+ * @param num1 a number..
  * @param num2 a number.
  * @param callback function that takes a number as its argument.
  * @returns the result of invoking `callback` passing the PRODUCT of `num1` and `num2`.
